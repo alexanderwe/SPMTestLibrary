@@ -1,6 +1,6 @@
 public struct SPMTestLibrary {
-    public private(set) var text = "Hello, World!"
 
     public init() {
+        print("Version 0.0.1")
     }
 }
